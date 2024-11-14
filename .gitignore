@@ -20,3 +20,43 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Node.js and npm-related files
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Prisma migrations (they can be regenerated)
+prisma/migrations/
+
+# Environment variables (should not be shared publicly)
+.env
+
+# Database files
+*.db
+*.sqlite
+
+# Logs and other temporary files
+*.log
+*.pid
+*.seed
+
+# OS-specific files (Mac, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# Build and public directories
+/build/
+dist/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Frontend build output (e.g., React build)
+frontend/build/
+frontend/node_modules/
+
+# Sensitive files, such as credentials
+/secrets/

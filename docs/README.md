@@ -1,7 +1,3 @@
-# Capstone-Lovecraft-ECommerce-PrototypeY-FrontEnd-Limited
-
-Capstone-Lovecraft-ECommerce-PrototypeY-FrontEnd-Limited
-
 # Lovecraftian E-Commerce
 
 Welcome to **Lovecraftian E-Commerce**, an online marketplace where cosmic squid aliens have conquered Earth and are selling human cities as products. This project contains both a frontend and backend, built with **React** for the frontend and **Node.js** with **Express** for the backend, using **Prisma** for database management.
